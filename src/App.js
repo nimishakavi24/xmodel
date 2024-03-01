@@ -1,3 +1,4 @@
+/* eslint-disable no-useless-computed-key */
 import "./App.css"
 import {useState} from 'react'
 function App() {
